@@ -13,4 +13,3 @@ class Dog
     end
 end
 
-4. Write a method, `.bark`, that `puts` "woof!" when called on an instance of Dog. 
